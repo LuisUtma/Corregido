@@ -880,7 +880,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #contact {
-  margin-right: 74px;
+  
   flex-direction:row-reverse;
   padding: 30px 0;
   display: flex;
